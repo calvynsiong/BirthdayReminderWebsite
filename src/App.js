@@ -32,7 +32,7 @@ function App() {
 				<h1 className='text-6xl text-center flex-1 p-1 mb-3'>
 					Birthday Reminders
 				</h1>
-				<h3 className='text-base flex-1 text-2xl text-semibold'>
+				<h3 className='flex-1 text-3xl text-semibold'>
 					Since you and I can never remember birthdays.
 				</h3>
 				<h1 className='font-bold text-2xl'>Today is {Today}</h1>
